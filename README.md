@@ -25,4 +25,4 @@ The model in this repository is the version I've built, but there are some upgra
   and only one of them is the correct one.
   The locking notches should be assymetrical, so that the only way to fit the box together is the correct one.
 - Maybe think of some way to simplify cable management?
-
+- The drive slots should be 1mm-1.5mm larger than the drives and the edges should be covered in foam tape for tighter fit and reduced vibrations.
