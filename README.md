@@ -1,6 +1,8 @@
-![Overview render](https://github.com/bluecube/nas-case/blob/master/renders/overview.JPG)
-![Side render with opened wall](https://github.com/bluecube/nas-case/blob/master/renders/side-open.JPG)
-![Back render](https://github.com/bluecube/nas-case/blob/master/renders/back-empty.JPG)
+![Overview render](https://github.com/bluecube/nas-case/blob/master/img/overview.JPG)
+![Side render with opened wall](https://github.com/bluecube/nas-case/blob/master/img/side-open.JPG)
+![Back render](https://github.com/bluecube/nas-case/blob/master/img/back-empty.JPG)
+![Inside photo](https://github.com/bluecube/nas-case/blob/master/img/inside-photo.JPG)
+![Back photo](https://github.com/bluecube/nas-case/blob/master/img/back-photo.JPG)
 
 This is a laser cut case for a small diy NAS server I've built.
 I started designing this when I realized that there isn't any case that would have the features that I wanted (small,
