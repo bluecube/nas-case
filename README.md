@@ -16,7 +16,7 @@ I've had it lasered from 3mm beech plywood, when assembled and glued together it
 - Side walls are attached with flat neodymium magnets.
 
 In case you are building this case (or modifying it, or something), let me know and tell me what you think about it.
-Other than the SolidWorks models, there also is [a dwg file](https://github.com/bluecube/nas-case/blob/master/renders/laser.DWG?raw=true).
+Other than the SolidWorks models, there also is [a dwg file](https://github.com/bluecube/nas-case/blob/master/img/laser.DWG?raw=true).
 It is possible that you will need to modify the front panel to mount your USB ports and power switch, I've used USBs from a PCI bracket and a shiny chromed outdoor doorbell button.
 
 The model in this repository is the version I've built, but there are some upgrades I'd do if I made another of these cases:
